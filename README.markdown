@@ -1,5 +1,3 @@
-# README (1)
-
 # 🎮 Board & Card Games Suite
 
 A modern desktop game collection built with **Python** and **PyQt6**, featuring:
